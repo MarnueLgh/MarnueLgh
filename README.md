@@ -25,10 +25,4 @@
 <!-- ── GitHub Activity Graph — Cotton Candy ── -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarnueLgh&theme=cotton_candy)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br/>
-
-<!-- ── GitHub Stats ── -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MarnueLgh&show_icons=true&theme=buefy&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarnueLgh&layout=compact&theme=buefy&hide_border=true&langs_count=6" />
-
 </div>
