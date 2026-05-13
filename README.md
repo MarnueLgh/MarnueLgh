@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- ── iMessage Bubble ── -->
-<img src="bubble.svg" alt="Bienvenido a MarnueLgh" width="100%" />
+<img src="iMessage.svg" alt="Bienvenido a MarnueLgh" width="100%" />
 
 <br/>
 
