@@ -8,8 +8,7 @@
 
 <!-- ── iMessage Bubble ── -->
 <img src="iMessage.svg" alt="Bienvenido a MarnueLgh" width="100%" />
-
-<br/>
+<hr>
 
 <!-- ── Tecnologías & Tools ── -->
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -20,7 +19,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![AI](https://img.shields.io/badge/AI%20Builder-FF6B6B?style=flat-square&logo=anthropic&logoColor=white)
 
-<br/><br/>
+<hr>
 
 <!-- ── GitHub Activity Graph — Cotton Candy ── -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarnueLgh&theme=cotton_candy)](https://github.com/ashutosh00710/github-readme-activity-graph)
